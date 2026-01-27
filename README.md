@@ -47,7 +47,7 @@ This is a full-stack e-commerce web platform built with separate **vendor** and 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/ajnataUttistha-pradhan2005/Hypertrade-E-Commerce-Application)
+   git clone https://github.com/ajnataUttistha-pradhan2005/Hypertrade-E-Commerce-Application
    ```
 
 2. Install dependencies:

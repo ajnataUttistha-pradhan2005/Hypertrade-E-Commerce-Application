@@ -4,7 +4,7 @@ const connectDB = async () => {
     
         // Establish a connection to MongoDB without deprecated options
         
-        await mongoose.connect("mongodb+srv://saketh214:saketh21@cluster0.hgtdt.mongodb.net/e-commerce");
+        await mongoose.connect("mongodb+srv://username:password@cluster0.hgtdt.mongodb.net/e-commerce");
 
         mongoose.connection.on('connected', () => {
             console.log('Database connected successfully.');
